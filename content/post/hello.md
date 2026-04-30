@@ -2,14 +2,15 @@
 title: vpn推荐
 description: 博客存档
 date: 2026-04-30
-image: cover.jpg
+image: "https://picsum.photos/800/400" # 隨機封面圖
 categories:
-    - 技术
+   - 教程
 tags:
-    - 教程
-    ---
-
-## <font color="blue">Windows</font>
+    - GitHub
+    - Hugo
+---
+## vpn推荐
+ <font color="blue">Windows</font>
 
 一. 全民级主力（目前用户最多）
 
