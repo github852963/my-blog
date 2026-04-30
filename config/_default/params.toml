@@ -56,7 +56,7 @@ SortBy              = "default"
     [avatar]
 enabled = true
 local = true
-src = "img/t017979183edf68561b.jpg"
+src = "img/167688786114839312.jpg"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
