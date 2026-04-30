@@ -53,5 +53,10 @@ SortBy              = "default"
     enabled  = true
     provider = "disqus"
 
+    [avatar]
+enabled = true
+local = true
+src = "img/t0179799183edf68561b.jpg"
+
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
